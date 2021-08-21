@@ -47,4 +47,4 @@
 
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=vinayakkgarg&show_icons=true&count_private=true" alt="vinayakkgarg" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=vinayakkgarg.vinayakkgarg" alt="visitors"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="languages")
