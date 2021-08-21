@@ -15,12 +15,6 @@
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1zzaeHpsjYLGfSxlF-7mPwajL7nYz--ve/view?usp=sharing">resume</a>.</li>
 <li>🎉 Fun Fact: Cars 🚗 and finance 💰 interest me.</li>
 </ul>
-<!-- <h2>✒️ Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/introducing-spottr---your-spotify-stats-year-round">Introducing Spottr - Your Spotify Stats Year-Round — July 16, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/github1s---instantly-browse-projects-on-vscode-in-your-browser">Github1s - Instantly Browse Projects on VSCode in Your Browser ⚡ — February 10, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/extensions-google-chrome's-soft-underbelly-(part-2)">Extensions: Google Chrome's Soft Underbelly (Part 2) — February 07, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/extensions-google-chrome's-soft-underbelly-(part-1)">Extensions: Google Chrome's Soft Underbelly (Part 1) — January 07, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/finally-featured-on-producthunt---lessons-learned">Finally Featured on ProductHunt — Lessons Learned — November 18, 2020</a></li>
-</details>
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p> -->
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg" alt="bash" width="25" height="25" />
@@ -46,8 +40,4 @@
 <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" alt="keras" width="25" height="25" />
 
 </p>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=vinayakkgarg&show_icons=true&count_private=true" alt="vinayakkgarg" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakkgarg)](https://github.com/vinayakkgarg/github-readme-stats" alt="languages")
- -->
- [![Github stats](https://github-readme-stats.vercel.app/api?username=vinayakkgarg&show_icons=true&theme=radical)](https://github.com/vinayakkgarg/github-readme-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakkgarg&layout=compact&theme=radical)](https://github.com/vinayakkgarg/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=vinayakkgarg&show_icons=true&count_private=true" alt="vinayakkgarg" />
