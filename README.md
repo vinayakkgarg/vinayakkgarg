@@ -46,5 +46,8 @@
 <img src="https://raw.githubusercontent.com/valohai/ml-logos/5127528b5baadb77a6ea4b999a47b4e86bf0f98b/keras.svg" alt="keras" width="25" height="25" />
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=vinayakkgarg&show_icons=true&count_private=true" alt="vinayakkgarg" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=vinayakkgarg&show_icons=true&count_private=true" alt="vinayakkgarg" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakkgarg)](https://github.com/vinayakkgarg/github-readme-stats" alt="languages")
+ -->
+ [![Github stats](https://github-readme-stats.vercel.app/api?username=vinayakkgarg&show_icons=true&theme=radical)](https://github.com/vinayakkgarg/github-readme-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakkgarg&layout=compact&theme=radical)](https://github.com/vinayakkgarg/github-readme-stats)
