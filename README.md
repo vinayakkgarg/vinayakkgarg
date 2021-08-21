@@ -47,4 +47,4 @@
 
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=vinayakkgarg&show_icons=true&count_private=true" alt="vinayakkgarg" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="languages")
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakkgarg)](https://github.com/vinayakkgarg/github-readme-stats" alt="languages")
