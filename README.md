@@ -13,7 +13,7 @@
 <li>👨‍💻 Most of my projects are available on my <a href="https://sites.google.com/view/vinayakkgarg/projects?authuser=0">website</a>.</li>
 <!-- <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
 <li>💬 Ping me about <strong>machine learning, data science and finance stuff</strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1sWsyxijsdk8E_nzV2lWTX39KRkcUnfMC/view?usp=sharing">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1vqfxL9uZEmEXJ6LlEl_2Gj51zlUmJO40/view?usp=sharing">resume</a>.</li>
 <li>🎉 Fun Fact: Cars 🚗 and finance 💰 interest me.</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
