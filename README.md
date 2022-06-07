@@ -8,7 +8,8 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>📖 I’m currently studying at IIIT Bangalore.</li>
-<li>🧠 I use AI to do computer vision things at <a href="https://www.spyne.ai/">Spyne.ai</a>.</li>
+<li>🌐 I am fighting big data, typically web logs at <a href="https://www.akamai.com/">Akamai</a>.</li>
+<li>🧠 I previously used AI to do computer vision things at <a href="https://www.spyne.ai/">Spyne.ai</a>.</li>
 <li>🧐 Learning about <strong>computer science</strong>, <strong>machine learning</strong> and a bit of <strong>finance</strong>.</li>
 <li>👨‍💻 Most of my projects are available on my <a href="https://sites.google.com/view/vinayakkgarg/projects?authuser=0">website</a>.</li>
 <!-- <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
