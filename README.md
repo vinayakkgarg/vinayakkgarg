@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://sites.google.com/view/vinayakkgarg">Vinayakk</a></h2>
-<p>I'm currently a graduate student at <strong><a href="https://www.iiitb.ac.in/">IIIT Bangalore</a></strong> in the field of computer science. I am based in 🌁 Bangalore, India. I can analyse data, develop AI models and build robot software. I enjoy playing with data to make sense out of it.</p>
+<p>I'm currently a data scientist at <strong><a href="https://www.akamai.com/">Akamai</a></strong>. I am based in 🌁 Bangalore, India. I can analyze data, develop AI models and build robot software. I enjoy playing with data to make sense out of it.</p>
 <p><a href="https://sites.google.com/view/vinayakkgarg/home?authuser=0"><img src="https://img.shields.io/badge/vinayakkgarg-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;" alt="Website Badge"></a> 
 <a href="https://www.linkedin.com/in/vinayakk-garg-538434143/"><img src="https://img.shields.io/badge/-@vinayakkgarg-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> 
 <a href="https://twitter.com/VinayakkGarg"><img src="https://img.shields.io/badge/-@vinayakkgarg-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Twitter&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a>
@@ -7,9 +7,9 @@
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47zu73l6nempv32csc6j6vkui9vu2m7lvwv5emd8vp&rid=giphy.gif&ct=g" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>📖 I’m currently studying at IIIT Bangalore.</li>
-<li>🌐 I am fighting big data, typically web logs at <a href="https://www.akamai.com/">Akamai</a>.</li>
-<li>🧠 I previously used AI to do computer vision things at <a href="https://www.spyne.ai/">Spyne.ai</a>.</li>
+<li>🌐 I am currently fighting big data, typically weblogs at <a href="https://www.akamai.com/">Akamai</a>.</li>
+<li>📖 I’ve graduated with a master's degree in Computer Science from <a href="https://www.iiitb.ac.in/">IIIT Bangalore</a>.</li>
+<li>🧠 I previously used AI to do computer vision things at <a href="https://www.spyne.ai/">Spyne</a>.</li>
 <li>🧐 Learning about <strong>computer science</strong>, <strong>machine learning</strong> and a bit of <strong>finance</strong>.</li>
 <li>👨‍💻 Most of my projects are available on my <a href="https://sites.google.com/view/vinayakkgarg/projects?authuser=0">website</a>.</li>
 <!-- <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
