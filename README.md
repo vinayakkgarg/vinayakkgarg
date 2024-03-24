@@ -11,10 +11,8 @@
 <li>📖 I’ve graduated with a master's degree in Computer Science from <a href="https://www.iiitb.ac.in/">IIIT Bangalore</a>.</li>
 <li>🧠 I previously used AI to do computer vision things at <a href="https://www.spyne.ai/">Spyne</a>.</li>
 <li>🧐 Learning about <strong>computer science</strong>, <strong>machine learning</strong> and a bit of <strong>finance</strong>.</li>
-<li>👨‍💻 Most of my projects are available on my <a href="https://sites.google.com/view/vinayakkgarg/projects?authuser=0">website</a>.</li>
 <!-- <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
 <li>💬 Ping me about <strong>machine learning, data science and finance stuff</strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1vqfxL9uZEmEXJ6LlEl_2Gj51zlUmJO40/view?usp=sharing">resume</a>.</li>
 <li>🎉 Fun Fact: Cars 🚗 and finance 💰 interest me.</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
