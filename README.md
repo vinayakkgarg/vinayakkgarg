@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://sites.google.com/view/vinayakkgarg">Vinayakk</a></h2>
 <p>I'm currently a data scientist at <strong><a href="https://www.akamai.com/">Akamai</a></strong>. I can analyze data, develop AI models and build robot software. I enjoy playing with data to make sense out of it.</p>
-<p><a href="https://sites.google.com/view/vinayakkgarg/home?authuser=0"><img src="https://img.shields.io/badge/vinayakkgarg-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;" alt="Website Badge"></a> 
+<p><a href="https://vinayakkgarg.github.io/"><img src="https://img.shields.io/badge/vinayakkgarg-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;" alt="Website Badge"></a> 
 <a href="https://www.linkedin.com/in/vinayakk-garg-538434143/"><img src="https://img.shields.io/badge/-@vinayakkgarg-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> 
 <a href="https://twitter.com/VinayakkGarg"><img src="https://img.shields.io/badge/-@vinayakkgarg-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Twitter&amp;link=https://dev.to/spiderpig86" alt="DevTo Badge"></a>
 </p>
