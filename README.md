@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://sites.google.com/view/vinayakkgarg">Vinayakk</a></h2>
+<h2>Hey 👋, I'm <a href="https://vinayakkgarg.github.io/">Vinayakk</a></h2>
 <p>I'm currently a data scientist at <strong><a href="https://www.akamai.com/">Akamai</a></strong>. I can analyze data, develop AI models and build robot software. I enjoy playing with data to make sense out of it.</p>
 <p><a href="https://vinayakkgarg.github.io/"><img src="https://img.shields.io/badge/vinayakkgarg-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;" alt="Website Badge"></a> 
 <a href="https://www.linkedin.com/in/vinayakk-garg-538434143/"><img src="https://img.shields.io/badge/-@vinayakkgarg-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> 
